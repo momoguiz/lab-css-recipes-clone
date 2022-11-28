@@ -1,0 +1,36 @@
+
+header {
+    background-image:url(../images/apple-pie.jpg);
+    background-size: 150px;
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    
+
+}
+
+h3{
+    color: black;
+    text-align: left;
+    margin-left: 15px;
+    margin-right: 15px;
+    font-family: 'Lucida Sans';
+    font-weight: 300;
+}
+.ingrediens li{
+    font-family: sans-serif;
+    margin: 0 5px;
+    list-style-type: none;
+    line-height: 15px;
+    font-size: 14px;
+    font-weight: 200;
+}
+.directions li{
+    font-family: sans-serif;
+    margin: 0 5px;
+    list-style-type: none;
+    line-height: 15px;
+    font-size: 14px;
+    font-weight: 200;
+
+}
